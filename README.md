@@ -74,7 +74,8 @@
 - [RuneBase ](https://www.runebase.org) - News, podcasts, guides and updates on THORChain.
 - [THORNoob](https://medium.com/@THORNoob) - Bi-weekly community updates and educational articles.
 ## Documentation
-- [Docs](https://docs.thorchain.org)
-- [White Paper](https://github.com/thorchain/Resources/blob/master/Whitepapers/THORChain-Whitepaper-May2020.pdf) 
-- [Audits](https://github.com/thorchain/Resources/tree/master/Audits)
-- [Dev Docs](https://dev.thorchain.org/)
+- [Docs](https://docs.thorchain.org) - THORChain, Midgard, Wallets and the rest of the ecosystem.
+- [WhitePaper](https://github.com/thorchain/Resources/blob/master/Whitepapers/THORChain-Whitepaper-May2020.pdf) - THORChain: A Decentralised Liquidity Network whitepaper by THORChain.
+- [Audits](https://github.com/thorchain/Resources/tree/master/Audits) - Audits, code review and PenTest conducted on different aspects of the THORChain code base.
+- [Dev Docs](https://dev.thorchain.org/) - The site covers dev instructions for THORChain
+- [Flipside Docs](https://docs.flipsidecrypto.com/our-data/tables/thorchain-tables) - Flipside provides Community Enabled Crypto Analytics, allowing our users to create and share data insights on the crypto projects they care most about.
