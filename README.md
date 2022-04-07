@@ -74,11 +74,12 @@
 - [THORChain Vision](https://thorchain.vision/console)  - Contains key stats and figures related to - core Thorchain operations.
 - [Swapalyzer of THORChain](https://swapalyzer.ofthor.com) - View Swap information
 ## Education
-- [GrassRoots Crypto ](https://www.youtube.com/c/GrassRootsCrypto/)- Educational videos
-- [LP University](https://discord.gg/jVWS4EAYhh)    -  Educational, Liquidity Pooling Strategy - Discussions
-- [RuneBase ](https://www.runebase.org)-  News and Updates on THORChain
-- [THORNoob](https://medium.com/@THORNoob)  - Weekly Community Updates and Educational Articles
-
+- [Intro to THORChain](https://erikvoorhees.medium.com/an-introduction-to-thorchain-for-bitcoiners-3f621bf0028e) - An introduction to THORChain by ShapeShift CEO, Erik Voorhees.
+- [Understanding THORFi](https://thorchain.org/getting-started/thorfi#docs) - A list of videos, articles and technical docs to understand THORFi.
+- [GrassRoots Crypto](https://grassrootscrypto.io/) - Educational videos, articles and threads.
+- [LP University](https://discord.gg/7q4cvFBf5k) - Educational, liquidity pooling strategy and discussions.
+- [RuneBase ](https://www.runebase.org) - News, podcasts, guides and updates on THORChain.
+- [THORNoob](https://medium.com/@THORNoob) - Bi-weekly community updates and educational articles.
 ## Documentation
 - [Docs](https://docs.thorchain.org)
 - [White Paper](https://github.com/thorchain/Resources/blob/master/Whitepapers/THORChain-Whitepaper-May2020.pdf) 
