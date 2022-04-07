@@ -41,7 +41,7 @@
 - [Churn Countdown](https://veado.github.io/thorchain-churn-countdown/) - Churn countdown for nodes and pools.
 - [THORNode Service](https://dashboards.ninerealms.com/#thornode-service) - Network wide statistics from NineRealms.
 ## Interfaces
-- [Lendscape](https://lendscape.so/) - The first decentralized lending protocol built on THORChain.
+- [Lendscape](https://lendscape.so/) - First Decentralized Lending Protocol built on THORChain.
 - [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/) - Wallet and exchange client for THORChain
 - [THORSwap](https://thorswap.finance) - World's first multi-chain dex powered by THORChain.
 - [Rango Exchange](https://rango.exchange) - First Multi-chain DEX Aggregator using THORChain liquidity.
