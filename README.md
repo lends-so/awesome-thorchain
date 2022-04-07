@@ -54,11 +54,9 @@
 - [SKIP](https://app.skip.exchange/) - 
 - [Shapeshift ](https://shapeshift.com)- Explore the Defi Universe
 ## Ecosystem
-- [THORStarter](https://thorstarter.org/)
-- [THORChads DAO](https://thorchads.com/)
-- [ShapeShift DAO](https://shapeshift.com/shapeshift-decentralize-airdrop)
-- [THORGuards](https://www.thorguards.com/)
-- [THORChain Collectibles](https://opensea.io/collection/thorchain-collectibles)
+- [THORStarter](https://thorstarter.org/) - Thorstarter is a multichain Venture DAO and IDO platform incubating new ideas and projects on THORChain and beyond.
+- [THORChads DAO](https://thorchads.com/) - Built by the THORSwap team, THORChads is a community driven project with fun games and airdrops for their THORChads.
+- [THORGuards](https://www.thorguards.com/) - The ThorGuards collection features a unique fusion of Norse mythology and viking elements with cyberpunk aesthetics and accents.
 
 ## Analytics
 - [THORYield ](https://thoryield.com)- View your added liquidity on THORChain
