@@ -30,23 +30,21 @@
 - [THORChain Schedule](https://thorchain-scheduled-tx.web.app/) - THORChain schedule explorer for outbound transactions.
 
 ## Dashboards
-- [THORChain.network](https://thorchain.network/)
-- [THORChain.live](https://thorchain.live/)
-- [THORYield](https://app.thoryield.com/dashboard)
-- [THORSwap](https://app.thorswap.finance/stats)
-- [THORChain.wtf](https://thorchain.wtf/)
-- [Churn Countdown](https://veado.github.io/thorchain-churn-countdown/)
-- [THORNode Service](https://dashboards.ninerealms.com/#thornode-service)
+- [THORChain.network](https://thorchain.network/) - THORNode dashboard for THORChain.
+- [THORChain.live](https://thorchain.live/) - Dashboard for decentralized finance from Qi Capital, LP University and Nine Realms.
+- [THORYield](https://app.thoryield.com/dashboard) - Track your liquidity on THORChain, view your wallet balance and Staking Accounts.
+- [THORSwap Stats](https://app.thorswap.finance/stats) - Network wide statistics from THORSwap.
+- [THORChain.wtf](https://thorchain.wtf/) - Chain health and global statistics for THORChain.
+- [Churn Countdown](https://veado.github.io/thorchain-churn-countdown/) - Churn countdown for nodes and pools.
+- [THORNode Service](https://dashboards.ninerealms.com/#thornode-service) - Network wide statistics from NineRealms.
 
 ## Interfaces
-- [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/)  - Wallet and - Exchange Client for THORChain
+- [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/)  - Wallet and Exchange Client for THORChain
 - [THORSwap](https://thorswap.finance) - World's first multi-chain dex powered by THORChain
 - [Rango Exchange](https://rango.exchange) - First Multi-chain DEX Aggregator
 - [Brokkr ](https://app.brokkr.finance/#/)- Investment Platform for optimized DeFi Investing
 - [DefiSpot](https://www.defispot.com/trade) - Buy and earn BTC, ETH, and more fully decentralized
-- [THORGram](https://t.me/thorgram\_public)  - THORSwap in Telegram
 - [Shapeshift ](https://shapeshift.com)- Explore the Defi Universe
-
 ## Ecosystem
 
 ## Analytics
