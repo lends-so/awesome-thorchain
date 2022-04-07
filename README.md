@@ -3,27 +3,31 @@
 > Please submit a pull request if you know any resources that might be helpful to other THORChads!
 
 ## Contents
-- [Official](#official)
+- [Official Links](#official-links)
+- [Supported Wallet](#supported-wallet)
+- [Explorer](#explorer)
 
-## Official
-- [thorchain.org](http://thorchain.org) 
+## Official Links
+- [thorchain.org](http://thorchain.org)
 - [thorchain.com](https://www.thorchain.com)
 - [Telegram](https://t.me/thorchain\_org) 
 - [Twitter](https://twitter.com/THORchain) 
 - [Medium](https://medium.com/thorchain)
+- [Discord](https://discord.gg/dqEHTHkrc5)
+- [GitLab](https://gitlab.com/thorchain)
+- [Github](https://github.com/thorchain)
 
-## Wallets
-- [XDEFI](https://www.xdefi.io/) - xDEFI wallet.
-- [TerraStation](https://www.terrastation.io/) - TerraStation wallet.
-- [MetaMask](https://metamask.io/) - MetaMask wallet.
-- [WalletConnect](https://walletconnect.org/) - WalletConnect wallet.
-- [Ferz wallet](https://ferz.com/) - Ferz wallet.
-- [THORWallet DEX](https://www.thorwallet.org/) - THORWallet DEX wallet.
-- [Liquality](https://liquality.io/) - Liquality wallet.
+## Supported Wallets
+- [XDEFI](https://www.xdefi.io/) - The first multichain wallet with a built-in DEX/Bridge aggregator.
+- [TerraStation](https://station.terra.money/) - Terra station is the official wallet of the Terra blockchain
+- [MetaMask](https://metamask.io/) - A crypto wallet & gateway to blockchain apps.
+- [WalletConnect](https://walletconnect.org/) - WalletConnect is the web3 standard to connect blockchain wallets to dapps.
+- [Ferz wallet](https://ferz.com/) - Crypto wallet powered by Thorchain protocol.
+- [THORWallet DEX](https://www.thorwallet.org/) - The only non-custodial wallet to swap native crypto assets across chains and earn passive income on them.
 ## Explorers
-- [ViewBlock](https://viewblock.io/thorchain) - ViewBlock explorer.
-- [Thorchain](https://thorchain.net/) - Thorchain explorer.
-- [THORChain Schedule](https://thorchain-scheduled-tx.web.app/) - THORChain Schedule explorer.
+- [ViewBlock](https://viewblock.io/thorchain) - ViewBlock blockchain explorer for THORChain.
+- [Thorchain](https://thorchain.net/) - THORChain blockchain explorer created by [@HooriRn](https://github.com/HooriRn).
+- [THORChain Schedule](https://thorchain-scheduled-tx.web.app/) - THORChain schedule explorer for outbound transactions.
 
 ## Dashboards
 - [THORChain.network](https://thorchain.network/)
@@ -42,6 +46,8 @@
 - [DefiSpot](https://www.defispot.com/trade) - Buy and earn BTC, ETH, and more fully decentralized
 - [THORGram](https://t.me/thorgram\_public)  - THORSwap in Telegram
 - [Shapeshift ](https://shapeshift.com)- Explore the Defi Universe
+
+## Ecosystem
 
 ## Analytics
 - [THORYield ](https://thoryield.com)- View your added liquidity on THORChain
