@@ -45,19 +45,18 @@
 - [THORNode Service](https://dashboards.ninerealms.com/#thornode-service) - Network wide statistics from NineRealms.
 
 ## Interfaces
-- [Lendscape](https://lendscape.so/) - The First Decentralized Lending Protocol built on THORChain.
-- [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/)  - Wallet and Exchange Client for THORChain
-- [THORSwap](https://thorswap.finance) - World's first multi-chain dex powered by THORChain
-- [Rango Exchange](https://rango.exchange) - First Multi-chain DEX Aggregator
-- [Brokkr ](https://app.brokkr.finance/#/)- Investment Platform for optimized DeFi Investing
+- [Lendscape](https://lendscape.so/) - The first decentralized lending protocol built on THORChain.
+- [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/) - Wallet and exchange client for THORChain
+- [THORSwap](https://thorswap.finance) - World's first multi-chain dex powered by THORChain.
+- [Rango Exchange](https://rango.exchange) - First Multi-chain DEX Aggregator using THORChain liquidity.
+- [Brokkr ](https://app.brokkr.finance/#/)- Brokkr creates an investment infrastructure of poltfolios that automates the use of DeFi protocols.
 - [DefiSpot](https://www.defispot.com/trade) - Buy and earn BTC, ETH, and more fully decentralized
-- [SKIP](https://app.skip.exchange/) - 
-- [Shapeshift ](https://shapeshift.com)- Explore the Defi Universe
+- [SKIP](https://app.skip.exchange/) - SKIP is powered by THORChain technology. Swap between assets across chain.
+- [Shapeshift ](https://shapeshift.com)- A free open source platform to trade, track, buy, and earn. Community-owned. Private. Non-custodial. Multi-chain. 
 ## Ecosystem
 - [THORStarter](https://thorstarter.org/) - Thorstarter is a multichain Venture DAO and IDO platform incubating new ideas and projects on THORChain and beyond.
 - [THORChads DAO](https://thorchads.com/) - Built by the THORSwap team, THORChads is a community driven project with fun games and airdrops for their THORChads.
 - [THORGuards](https://www.thorguards.com/) - The ThorGuards collection features a unique fusion of Norse mythology and viking elements with cyberpunk aesthetics and accents.
-
 ## Analytics
 - [THORYield ](https://thoryield.com)- View your added liquidity on THORChain
 - [RUNEBalance ](https://www.runebalance.com/#/pools)-[ ](https://www.runebalance.com/#/pools)View - current arbitrage opportunities in the pools.&#x20;
