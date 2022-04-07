@@ -1,7 +1,7 @@
 # Awesome THORChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![awesome-thorchain](./assets/awesome-thorchain.png)
 > A curated list of awesome things for people looking to build and learn about [THORChain](https://thorchain.org).
 > Please submit a pull request if you know any resources that might be helpful to other THORChads!
-
 ## Contents
 - [Official Links](#official-links)
 - [Supported Wallet](#supported-wallet)
@@ -12,7 +12,6 @@
 - [Analytics](#analytics)
 - [Education](#education)
 - [Documentation](#documentation)
-
 ## Official Links
 - [thorchain.org](http://thorchain.org)
 - [thorchain.com](https://www.thorchain.com)
@@ -22,7 +21,6 @@
 - [Discord](https://discord.gg/dqEHTHkrc5)
 - [GitLab](https://gitlab.com/thorchain)
 - [Github](https://github.com/thorchain)
-
 ## Supported Wallets
 - [XDEFI](https://www.xdefi.io/) - The first multichain wallet with a built-in DEX/Bridge aggregator.
 - [TerraStation](https://station.terra.money/) - Terra station is the official wallet of the Terra blockchain
@@ -34,7 +32,6 @@
 - [ViewBlock](https://viewblock.io/thorchain) - ViewBlock blockchain explorer for THORChain.
 - [Thorchain](https://thorchain.net/) - THORChain blockchain explorer created by [@HooriRn](https://github.com/HooriRn).
 - [THORChain Schedule](https://thorchain-scheduled-tx.web.app/) - THORChain schedule explorer for outbound transactions.
-
 ## Dashboards
 - [THORmon](https://thorchain.network/) - THORNode dashboard for THORChain.
 - [THORChain.live](https://thorchain.live/) - Dashboard for decentralized finance from Qi Capital, LP University and Nine Realms.
@@ -43,7 +40,6 @@
 - [THORChain.wtf](https://thorchain.wtf/) - Chain health and global statistics for THORChain.
 - [Churn Countdown](https://veado.github.io/thorchain-churn-countdown/) - Churn countdown for nodes and pools.
 - [THORNode Service](https://dashboards.ninerealms.com/#thornode-service) - Network wide statistics from NineRealms.
-
 ## Interfaces
 - [Lendscape](https://lendscape.so/) - The first decentralized lending protocol built on THORChain.
 - [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/) - Wallet and exchange client for THORChain
