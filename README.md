@@ -4,7 +4,7 @@
 > Please submit a pull request if you know any resources that might be helpful to other THORChads!
 ## Contents
 - [Official Links](#official-links)
-- [Supported Wallet](#supported-wallet)
+- [Supported Wallet](#supported-wallets)
 - [Explorers](#explorers)
 - [Dashboards](#dashboards)
 - [Interfaces](#interfaces)
