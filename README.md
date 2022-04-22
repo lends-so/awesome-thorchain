@@ -65,6 +65,7 @@
 - [LP Calculator](https://science.flipsidecrypto.com/thorchain/) - THORChain LP calculator. and forcast.
 - [THORChain Vision](https://thorchain.vision/console) - Contains key stats and figures related to core Thorchain operations along with LP Calculator.
 - [Swapalyzer of THORChain](https://swapalyzer.ofthor.com) - View Swap information and analytics.
+- [THORChain Swap Sankey](https://anthonydouc.github.io/Thorswap-sankey/) - An interactive tool for visualising aggregated Thorchain swap volume.
 ## Education
 - [Intro to THORChain](https://erikvoorhees.medium.com/an-introduction-to-thorchain-for-bitcoiners-3f621bf0028e) - An introduction to THORChain by ShapeShift CEO, Erik Voorhees.
 - [Understanding THORFi](https://thorchain.org/getting-started/thorfi#docs) - A list of videos, articles and technical docs to understand THORFi.
