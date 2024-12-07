@@ -31,6 +31,7 @@
 - [Ferz wallet](https://ferz.com/) - Crypto wallet powered by Thorchain protocol.
 - [THORWallet DEX](https://www.thorwallet.org/) - The only non-custodial wallet to swap native crypto assets across chains and earn passive income on them.
 - [Ledger](https://www.ledger.com/) - Ledger's the smartest way to secure, buy, exchange and grow your crypto assets.
+- [Gem Wallet](https://gemwallet.com/) - Gem Wallet is an open-source and self-custodial crypto wallet.
 ## Explorers
 - [ViewBlock](https://viewblock.io/thorchain) - ViewBlock blockchain explorer for THORChain.
 - [Thorchain](https://thorchain.net/) - THORChain blockchain explorer created by [@HooriRn](https://github.com/HooriRn).
