@@ -24,8 +24,7 @@
 - [GitLab](https://gitlab.com/thorchain)
 - [Github](https://github.com/thorchain)
 ## Supported Wallets
-- [XDEFI](https://www.xdefi.io/) - The first multichain wallet with a built-in DEX/Bridge aggregator.
-- [TerraStation](https://station.terra.money/) - Terra station is the official wallet of the Terra blockchain.
+- [CTRL](https://ctrl.xyz/) - The first multichain wallet with a built-in DEX/Bridge aggregator.
 - [MetaMask](https://metamask.io/) - A crypto wallet & gateway to blockchain apps.
 - [WalletConnect](https://walletconnect.org/) - WalletConnect is the web3 standard to connect blockchain wallets to dapps.
 - [Ferz wallet](https://ferz.com/) - Crypto wallet powered by Thorchain protocol.
@@ -45,7 +44,7 @@
 - [Churn Countdown](https://veado.github.io/thorchain-churn-countdown/) - Churn countdown for nodes and pools.
 - [THORNode Service](https://dashboards.ninerealms.com/#thornode-service) - Network wide statistics from NineRealms.
 ## Interfaces
-- [Lendscape](https://lendscape.so/) - First Decentralized Lending Protocol built on THORChain.
+- [Lends](https://lends.so/) - First Decentralized Lending Protocol built on THORChain.
 - [ASGARDEX Desktop](https://github.com/thorchain/asgardex-electron/releases/) - Wallet and exchange client for THORChain.
 - [THORSwap](https://thorswap.finance) - World's first multi-chain dex powered by THORChain.
 - [Rango Exchange](https://rango.exchange) - First Multi-chain DEX Aggregator using THORChain liquidity.
